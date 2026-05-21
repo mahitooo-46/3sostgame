@@ -1,0 +1,2 @@
+textures/Platform.png
+textures/player.png
